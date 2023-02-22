@@ -184,6 +184,10 @@ img {
   font-weight: 900;
 }
 
+.DY-logo {
+  width: 17px;
+  }
+
 .nav__toggle {
   color: var(--second-color);
   font-size: 1.5rem;
